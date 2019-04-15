@@ -10,8 +10,8 @@ end
 
 def input_to_index(input)
   # convert the string input to_i
-  user_input = input.to_i - 1
+  user_index = input.to_i - 1
 end
 
-def move
+def move(board_array, user_index, character)
 end
